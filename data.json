@@ -1,0 +1,22 @@
+{
+    "schedule": [
+        {
+            "name": "Плавание",
+            "time": "10:00",
+            "maxParticipants": 8,
+            "currentParticipants": 5
+        },
+        {
+            "name": "Тенис",
+            "time": "19:00",
+            "maxParticipants": 16,
+            "currentParticipants": 6
+        },
+        {
+            "name": "Борьба",
+            "time": "16:00",
+            "maxParticipants": 16,
+            "currentParticipants": 12
+        }
+    ]
+}
